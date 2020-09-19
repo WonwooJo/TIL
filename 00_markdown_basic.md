@@ -163,3 +163,4 @@ Remote Repository
 
 
 
+> Han notebook에서 git으로 확인함.
