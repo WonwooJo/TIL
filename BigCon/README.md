@@ -1,6 +1,8 @@
 # Big Contest 준비
 
 > Big Contest에서 주최하는 NS SHOP+ 예측 공모전 준비
+>
+> Data Analysis method : Dataframe → 상관관계 검증 → 유의미한 피쳐 선정 → 예측)
 
 
 
