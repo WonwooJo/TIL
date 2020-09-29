@@ -1,0 +1,21 @@
+1. 네이버 지식인 질문의 제목을 스크래핑(검색어: 파이썬)
+# https://search.naver.com/search.naver?where=kin&sm=tab_jum&query=%ED%8C%8C%EC%9D%B4%EC%8D%AC
+(현재 페이지 or 전체 페이지)
+
+
+2. 다나와 메뉴
+# http://prod.danawa.com/list/?cate=112758&15main_11_02
+- 가격 데이터 추출 및 저장
+- 화면 크기 정보 추출 및 저장
+- cpu가 intel / AMD 추출 및 저장
+- 코어 정보 ex. 옥타, 헥사, 쿼드.. 추출 및 저장
+- ssd의 용량 추출 및 저장
+- 램 용량 추출 및 저장
+- 제조사 추출 및 저장
+
+>> 딕셔너리로 저장
+
+이거 가지고 분석 할 수 있지.
+통계적 측면: 상관계수(ex. 가격에 영향을 미치는 요인 등.)
+
+
