@@ -1,0 +1,19 @@
+###### 20.08.04 quiz ######
+
+1. s = [9,5,2,7,3,20,100,95]
+  - s는 1차원 점들의 위치
+  - 가장 가까운 두 점을 출력
+  - 결과: 2, 3
+
+2. 이메일 주소 검사기
+  아이디@도메인주소
+  아이디: 숫자포함, .포함, _포함, 다른 문자는 안됨(특수문자, 한글 등).
+
+3. 도메인 주소(URL) 검사기
+  시작: http:// or https://
+  가능한 주소: http://www.abc.com/sub/sub2/index.do?k=id=test  # ?, =, 알파벳 가능
+               http://www.abc.com/sub/sub2/index.html
+               http://www.abc.com/sub/sub2/index.do
+  안되는 주소: http://www.abc.com/sub/sub2/
+               http://www.abc.com/sub/sub2
+
