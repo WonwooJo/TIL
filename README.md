@@ -1,4 +1,4 @@
-# TIL
+# TIL(Today I Learned)
 
 ## 운용방침
 
