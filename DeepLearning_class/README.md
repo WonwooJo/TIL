@@ -115,6 +115,14 @@
 
 
 
+### R Machine Learning
+
+> Python만큼 R도 많이 쓰이기때문에 R을 활용한 Machine Learning도 진행함.
+
+- 기초 문법 Start(20.10.06)
+
+
+
 ## Git
 
 > 2일간 Git을 배우며 원리와 활용 범위에 대해 교육
