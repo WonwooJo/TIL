@@ -1,0 +1,8 @@
+install.packages('foreign')
+library(foreign)
+library(readxl)
+library(ggplot2)
+raw_welfare <- read.spss('data/Koweps_hpc10_2015_beta1.sav', to.data.frame = T)
+welfare <- raw_welfare
+head(welfare)
+View(welfare)
